@@ -8,7 +8,7 @@
     "@emotion/styled": "11.1.5",
     "@mdx-js/mdx": "1.6.18",
     "@mdx-js/react": "1.6.18",
-    "dayjs": "1.9.3",
+    "dayjs": "1.10.5",
     "framer-motion": "3.10.0",
     "gatsby": "2.24.81",
     "gatsby-alias-imports": "1.0.4",
